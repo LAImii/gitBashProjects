@@ -1,0 +1,1 @@
+wildcard(*/?) >> เรียกใช้เหมือน cmd/DOSwildcard(*/?) >> เรียกใช้เหมือน cmd/DOSwildcard(*/?) >> เรียกใช้เหมือน cmd/DOS
